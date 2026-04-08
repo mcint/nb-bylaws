@@ -191,6 +191,16 @@ Directors shall be elected at the annual meeting of members. Approximately half 
 The chairman of the board or, if none, the president shall appoint a committee to nominate qualified candidates for election to the board at least 30 days before the date of any election of directors. The nominating committee shall make its report at least 21 days before the date of the election, and the secretary shall forward to each member, with the notice of meeting required by these bylaws, a list of all candidates nominated by committee.
 ### b. Nominee's Right to Solicit Votes
 The board shall formulate procedures that allow a reasonable opportunity for a nominee to communicate to members the nominee's qualifications and the reasons for the nominee's candidacy, a reasonable opportunity for the nominee to solicit votes, and a reasonable opportunity for all members to choose among the nominees.
+
+<!-- TODO: Election Improvements (proposed)
+Discussion seeds for a future PR — not part of the current bylaws.
+- Ranked-choice or approval voting for director elections
+- Minimum candidate statement period (14 days before election)
+- Electronic/asynchronous voting option for members unable to attend
+- Clear timeline: nomination opens → candidate statements → vote → results announced
+- Accessibility: ensure voting process accommodates remote members
+-->
+
 ## 7.6. Vacancies on Board of Directors
 ### a. Events Causing Vacancies on Board
 A vacancy or vacancies on the board of directors shall occur in the event of
