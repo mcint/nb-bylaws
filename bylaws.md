@@ -20,7 +20,7 @@ The name of this corporation is Noisebridge.
 # Article 2. Principal Office of the Corporation
 The principal office for the transaction of the activities and affairs of this corporation is located at 3435 Cesar Chavez Street, Ste. 211, San Francisco California. The board of directors may change the location of the principal office. Any such change of location must be noted by the secretary on these bylaws opposite this Section; alternatively, this Section maybe amended to state the new location.
 - Address: 272 Capp Street, San Francisco, CA 94110	Since: 2020	Until: present
-- Mailing Address: PO Box 410698, San Francisco, CA 94141
+- Mailing Address: 2261 Market Street #235-A, San Francisco, CA 94114
 The board may at any time establish branch or subordinate offices at any place or places where this corporation is qualified to conduct its activities.
 
 # Article 3. Purpose
