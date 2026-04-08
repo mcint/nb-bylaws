@@ -177,7 +177,7 @@ Without prejudice to the general powers set forth in Section 7.1.a. of these byl
 - (3) Borrow money and incur indebtedness on the corporation's behalf and cause to be executed and delivered for the corporation's purposes, in the corporate name, promissory notes, bonds, debentures, deeds of trust, mortgages, pledges, hypothecations, and other evidences of debt and securities.
 
 ## 7.2. Number of and Qualifications for Directors
-The board of directors shall consist of at least five (5) but no more than eleven (11) directors unless changed by amendment to these bylaws. The exact number of directors shall be fixed, within those limits, by a resolution adopted by the board of directors.	[deleted — requirements of directors (none specified)]
+The board of directors shall consist of at least five (5) but no more than eleven (11) directors unless changed by amendment to these bylaws. The exact number of directors shall be fixed, within those limits, by a resolution adopted by the board of directors. Each director shall serve a term of two (2) years. Terms shall be staggered so that approximately half of the directors are elected each year. No director may serve more than three (3) consecutive terms without a one-year break.	[deleted — requirements of directors (none specified)]
 ## 7.3. Restriction on Interested Persons as Directors
 No more than 49 percent of the persons serving on the board may be "interested persons."  An interested person is
 - (a) any person compensated by the corporation for services rendered to it within the previous 12 months, whether as a full-time or part-time employee, independent contractor, or otherwise, excluding any reasonable compensation paid to a director as director; and
@@ -186,6 +186,7 @@ However, any violation of this paragraph shall not affect the validity or enforc
 
 ## 7.4. -- Intentionally left blank --
 ## 7.5. Nominations and Elections of Directors
+Directors shall be elected at the annual meeting of members. Approximately half of the board seats shall be up for election each year to maintain staggered terms as described in Section 7.2.
 ### a. Nominations by Committee
 The chairman of the board or, if none, the president shall appoint a committee to nominate qualified candidates for election to the board at least 30 days before the date of any election of directors. The nominating committee shall make its report at least 21 days before the date of the election, and the secretary shall forward to each member, with the notice of meeting required by these bylaws, a list of all candidates nominated by committee.
 ### b. Nominee's Right to Solicit Votes
