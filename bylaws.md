@@ -68,7 +68,10 @@ A member may be suspended, under Section 6.8 of these bylaws, based on the good 
 A person whose membership is suspended shall not be a member during the period of suspension,
 ## 6.8. Termination or Suspension of Membership - Procedure
 If grounds appear to exist for suspending or terminating a member under Sections 6.6 and 6.7 of these bylaws, the following procedure shall be followed:
-- (a) The board shall give the member at least 15 days' prior notice of the proposed suspension or termination and the reasons for the proposed suspension or termination. Notice shall be given by any method reasonably calculated to provide actual notice. Notice given by mail shall be sent by first-class or registered mail to the member's last address as shown on the corporation's records.
+- (a) The board shall give the member at least 15 days' prior notice of the proposed suspension or termination and the reasons for the proposed suspension or termination. Notice shall be given by any method reasonably calculated to provide actual notice. Notice shall be
+  - (1) personally delivered to the member by email or other known electronic means,
+  - (2) posted prominently in the space in at least one standard notice-board location (e.g., by the front entrance, the main meeting area, or the workshop), and
+  - (3) posted in the corporation's public chat channels in wide use.
 - (b) The member shall be given an opportunity to be heard, either orally or in writing, at least five days before the effective date of the proposed suspension or termination. The hearing shall be held, or the written statement considered, by the board or by a committee or person authorized by the board to determine whether the suspension or termination should occur.
 - (c) The board, committee, or person shall decide whether a member should be suspended, expelled, or sanctioned in any way. The decision of the board, committee, or person shall be final.
 - (d) Any action challenging an expulsion, suspension, or termination of membership, including a claim alleging defective notice, must be commenced within one year after the date of the expulsion, suspension, or termination.
@@ -104,21 +107,13 @@ Approval by the members of any of the following proposals, other than by unanimo
 - (c) Amending the articles of incorporation; or
 - (d) Electing to wind up and dissolve the corporation.
 ### c. Manner of Giving Notice
-Notice of any meeting of members shall be in writing and shall be given at least 10 but no more than 90 days before the meeting date. The notice shall be given either personally or by first-class, registered, or certified mail, or by other means of written communication, charges prepaid, and shall be addressed to each member entitled to vote, at the address of that member as it appears on the books of the corporation or at the address given by the member to the corporation for purposes of notice.
-- (a) Notice given by electronic transmission by the corporation shall be valid only if
-    - (1) Delivered by
-        - (i) facsimile telecommunication or electronic mail when directed to the facsimile number or electronic mail address, respectively, for that recipient on record with the corporation;
-        - (ii) posting on an electronic message board or network that the corporation has designated for those communications, together with a separate notice to the recipient of the posting, which transmission shall be validly delivered on the later of the posting or delivery of the separate notice of it; or
-        - (iii) other means of electronic communication;
-    - (2) To a recipient who has provided an unrevoked consent to the use of those means of transmission for communications; and
-    - (3) That creates a record that is capable of retention, retrieval, and review, and that may thereafter be rendered into clearly legible tangible form.
-- (b) Notwithstanding the foregoing,
-    - (1) An electronic transmission by this corporation to a member is not authorized unless, in addition to satisfying the requirements of this section, the transmission satisfies the requirements applicable to consumer consent to electronic record as set forth in the Electronic Signatures in Global and National Commerce Act (15 United States Code section 7001 (c)(1)).
-    - (2) Notice shall not be given by electronic transmission by the corporation after either of the following:
-        - (i) the corporation is unable to deliver two consecutive notices to the member by that means or
-        - (ii) the inability so to deliver the notices to the member becomes known to the secretary, any assistant secretary, or any other person responsible for the giving of the notice.
-### d. Affidavit of Mailing Notice
-An affidavit of the mailing of any notice of any members' meeting, or of the giving of such notice by other means, may be executed by the secretary, assistant secretary, or any transfer agent of the corporation, and if so executed, shall be filed and maintained in the corporation's minute book.
+Notice of any meeting of members shall be in writing and shall be given at least 10 but no more than 90 days before the meeting date by any method reasonably calculated to provide actual notice. Notice shall be
+- (1) personally delivered to each member entitled to vote by email or other known electronic means,
+- (2) posted prominently in the space in at least one standard notice-board location (e.g., by the front entrance, the main meeting area, or the workshop), and
+- (3) posted in the corporation's public chat channels in wide use.
+Notice given by email and electronic messaging shall create a record capable of retention, retrieval, and review. Notice shall not be given by electronic means to a member after the corporation is unable to deliver two consecutive notices to the member by that means, or after such inability becomes known to the secretary, any assistant secretary, or any other person responsible for giving the notice.
+### d. Affidavit of Giving Notice
+An affidavit of the giving of any notice of any members' meeting, whether by email, physical posting, electronic messaging, or other means, may be executed by the secretary, assistant secretary, or any transfer agent of the corporation, and if so executed, shall be filed and maintained in the corporation's minute book.
 
 ## 6.13. Voting
 ### a. Eligibility to Vote
@@ -237,15 +232,12 @@ Other general meetings of the board may be held without notice at such time and 
 #### (1) Authority to Call Special Meetings
 Special meetings of the board for any purpose may be called at any time by the chairman of the board, if any, the president or any vice president, the secretary, or any two directors.
 #### (2) Notice of Special Meetings
-Notice of the time and place of special meetings shall be given to each director by
-- (a) personal delivery of written notice;
-- (b) first-class mail, postage prepaid;
-- (c) telephone, including a voice messaging system or other system or technology designed to record and communicate messages, or by electronic transmission, either directly to the director or to a person at the director's office who would reasonably be expected to communicate that notice promptly to the director;
-- (d) facsimile;
-- (e) electronic mail; or
-- (f) other electronic means. All such notices shall be given or sent to the director's address or telephone number as shown on the corporation's records.
+Notice of the time and place of special meetings shall be given by any method reasonably calculated to provide actual notice. Notice shall be
+- (1) personally delivered to each director by email or other known electronic means,
+- (2) posted prominently in the space in at least one standard notice-board location (e.g., by the front entrance, the main meeting area, or the workshop), and
+- (3) posted in the corporation's public chat channels in wide use.
 
-Notices sent by first-class mail shall be deposited in the United States mails at least five days before the time set for the meeting. Notices given by personal delivery, telephone, or electronic transmission shall be delivered, telephoned, or sent, respectively, at least 48 hours before the time set for the meeting.
+Notice shall be delivered or posted at least 48 hours before the time set for the meeting.
 
 The notice shall state the time of the meeting and the place, if the place is other than the corporation's principal office. The notice need not specify the purpose of the meeting.
 ### e. Quorum
