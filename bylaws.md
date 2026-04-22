@@ -69,9 +69,9 @@ A person whose membership is suspended shall not be a member during the period o
 ## 6.8. Termination or Suspension of Membership - Procedure
 If grounds appear to exist for suspending or terminating a member under Sections 6.6 and 6.7 of these bylaws, the following procedure shall be followed:
 - (a) The board shall give the member at least 15 days' prior notice of the proposed suspension or termination and the reasons for the proposed suspension or termination. Notice shall be given by any method reasonably calculated to provide actual notice. Notice shall be
-  - (1) sent by email to the member's email address on file with the corporation or other usable method,
+  - (1) personally delivered to the member by email or other known electronic means,
   - (2) posted prominently in the space in at least one standard notice-board location (e.g., by the front entrance, the main meeting area, or the workshop), and
-  - (3) posted in the corporation's standard communication chat channels in wide use.
+  - (3) posted in the corporation's public chat channels in wide use.
 - (b) The member shall be given an opportunity to be heard, either orally or in writing, at least five days before the effective date of the proposed suspension or termination. The hearing shall be held, or the written statement considered, by the board or by a committee or person authorized by the board to determine whether the suspension or termination should occur.
 - (c) The board, committee, or person shall decide whether a member should be suspended, expelled, or sanctioned in any way. The decision of the board, committee, or person shall be final.
 - (d) Any action challenging an expulsion, suspension, or termination of membership, including a claim alleging defective notice, must be commenced within one year after the date of the expulsion, suspension, or termination.
@@ -107,10 +107,10 @@ Approval by the members of any of the following proposals, other than by unanimo
 - (c) Amending the articles of incorporation; or
 - (d) Electing to wind up and dissolve the corporation.
 ### c. Manner of Giving Notice
-Notice of any meeting of members shall be in writing and shall be given at least 10 but no more than 90 days before the meeting date. Notice shall be given by all of the following means:
-- (a) Email sent to each member entitled to vote, at the email address of that member as it appears on the books of the corporation or as provided by the member to the corporation for purposes of notice;
-- (b) Physical posting prominently in the space in at least one standard notice-board location (e.g., by the front entrance, the main meeting area, or the workshop); and
-- (c) Posting in the corporation's standard communication chat channels in widest use (e.g., mailing list, Slack, Discord, or their successors).
+Notice of any meeting of members shall be in writing and shall be given at least 10 but no more than 90 days before the meeting date by any method reasonably calculated to provide actual notice. Notice shall be
+- (1) personally delivered to each member entitled to vote by email or other known electronic means,
+- (2) posted prominently in the space in at least one standard notice-board location (e.g., by the front entrance, the main meeting area, or the workshop), and
+- (3) posted in the corporation's public chat channels in wide use.
 Notice given by email and electronic messaging shall create a record capable of retention, retrieval, and review. Notice shall not be given by electronic means to a member after the corporation is unable to deliver two consecutive notices to the member by that means, or after such inability becomes known to the secretary, any assistant secretary, or any other person responsible for giving the notice.
 ### d. Affidavit of Giving Notice
 An affidavit of the giving of any notice of any members' meeting, whether by email, physical posting, electronic messaging, or other means, may be executed by the secretary, assistant secretary, or any transfer agent of the corporation, and if so executed, shall be filed and maintained in the corporation's minute book.
@@ -232,13 +232,12 @@ Other general meetings of the board may be held without notice at such time and 
 #### (1) Authority to Call Special Meetings
 Special meetings of the board for any purpose may be called at any time by the chairman of the board, if any, the president or any vice president, the secretary, or any two directors.
 #### (2) Notice of Special Meetings
-Notice of the time and place of special meetings shall be given to each director by
-- (a) personal delivery of written notice;
-- (b) telephone, including a voice messaging system or other system or technology designed to record and communicate messages, either directly to the director or to a person at the director's office who would reasonably be expected to communicate that notice promptly to the director;
-- (c) email to the director's email address on file with the corporation; or
-- (d) other electronic means, including the corporation's standard communication chat channels in widest use. All such notices shall be given or sent to the director's address, email address, or telephone number as shown on the corporation's records.
+Notice of the time and place of special meetings shall be given by any method reasonably calculated to provide actual notice. Notice shall be
+- (1) personally delivered to each director by email or other known electronic means,
+- (2) posted prominently in the space in at least one standard notice-board location (e.g., by the front entrance, the main meeting area, or the workshop), and
+- (3) posted in the corporation's public chat channels in wide use.
 
-Notices given by personal delivery, telephone, or electronic means shall be delivered or sent at least 48 hours before the time set for the meeting.
+Notice shall be delivered or posted at least 48 hours before the time set for the meeting.
 
 The notice shall state the time of the meeting and the place, if the place is other than the corporation's principal office. The notice need not specify the purpose of the meeting.
 ### e. Quorum
