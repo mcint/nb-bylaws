@@ -68,7 +68,10 @@ A member may be suspended, under Section 6.8 of these bylaws, based on the good 
 A person whose membership is suspended shall not be a member during the period of suspension,
 ## 6.8. Termination or Suspension of Membership - Procedure
 If grounds appear to exist for suspending or terminating a member under Sections 6.6 and 6.7 of these bylaws, the following procedure shall be followed:
-- (a) The board shall give the member at least 15 days' prior notice of the proposed suspension or termination and the reasons for the proposed suspension or termination. Notice shall be given by any method reasonably calculated to provide actual notice. Notice shall be sent by email to the member's address on file with the corporation, posted prominently in the space in at least one standard notice-board location (e.g., by the front entrance, the main meeting area, or the workshop), and posted in the corporation's standard communication chat channels in widest use.
+- (a) The board shall give the member at least 15 days' prior notice of the proposed suspension or termination and the reasons for the proposed suspension or termination. Notice shall be given by any method reasonably calculated to provide actual notice. Notice shall be
+  - (1) sent by email to the member's email address on file with the corporation or other usable method,
+  - (2) posted prominently in the space in at least one standard notice-board location (e.g., by the front entrance, the main meeting area, or the workshop), and
+  - (3) posted in the corporation's standard communication chat channels in wide use.
 - (b) The member shall be given an opportunity to be heard, either orally or in writing, at least five days before the effective date of the proposed suspension or termination. The hearing shall be held, or the written statement considered, by the board or by a committee or person authorized by the board to determine whether the suspension or termination should occur.
 - (c) The board, committee, or person shall decide whether a member should be suspended, expelled, or sanctioned in any way. The decision of the board, committee, or person shall be final.
 - (d) Any action challenging an expulsion, suspension, or termination of membership, including a claim alleging defective notice, must be commenced within one year after the date of the expulsion, suspension, or termination.
